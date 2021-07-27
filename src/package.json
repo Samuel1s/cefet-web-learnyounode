@@ -1,0 +1,15 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "Aprendizado de node na prática.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learn",
+    "node"
+  ],
+  "author": "SamuelSantos <samuelfds286@gmail.com>",
+  "license": "ISC"
+}
